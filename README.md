@@ -3,7 +3,7 @@
 Hi this is Adam I will tell you a little about myself in a few words.
 My adventure with programming began in early 2021 by watching videos on YouTube, and so it began. I decided to enroll in a Kodilla course to increase my skills, after completing the course I am still deepening my knowledge through courses on Udemy or even by reading documentation
 
-（￣︶￣）↗ 　 here it's my personal portfolio https://adamek-c.github.io/
+（￣︶￣）↗
 
 ## Technologies ^\_^
 
